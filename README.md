@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafał</h1>
-<h3 align="center">CS student, learning Python + Frontend</h3>
+<h3 align="center">CS student, learning Frontend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafalspa&label=Profile%20views&color=aab0ae&style=flat" alt="rafalspa" /> </p>
 
